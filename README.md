@@ -1,4 +1,4 @@
-![Header](https://github.com/Asilay3817/Asilay3817/blob/main/assets/1517497951831.jpeg)
+![Header](https://github.com/Asilay3817/Asilay3817/blob/main/assets/stock-photo-abstract-multicolored-background-poly-pattern.jpeg)
 
 ## Начинающий QA. Заинтересован в самообразовании и развитии навыков тестирования.
 
