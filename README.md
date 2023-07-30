@@ -1,8 +1,12 @@
-![Header](https://github.com/Asilay3817/Asilay3817/blob/main/assets/stock-photo-abstract-multicolored-background-poly-pattern.jpeg)
+[//]: # (![Header]&#40;https://github.com/Asilay3817/Asilay3817/blob/main/assets/stock-photo-abstract-multicolored-background-poly-pattern.jpeg&#41;)
 
 ## Начинающий QA. Заинтересован в самообразовании и развитии навыков тестирования.
 
 [![CV](https://img.shields.io/badge/-CV-090909)](https://drive.google.com/file/d/14PtKJtaKsDnQCI2CX1G_PqsU_ou-u2wF/view?usp=sharing)
+## Testing Documentation
+[Documentation](https://github.com/Asilay3817/Documentation)
+
+
 ## languges and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
@@ -10,5 +14,6 @@
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-090909?style=for-the-badge&logo=VirtualBox)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 ![QASE](https://img.shields.io/badge/-QASE-090909?style=for-the-badge&logo=Qase)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=googlechrome)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asilay3817&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asilay3817&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
