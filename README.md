@@ -1,4 +1,4 @@
-![Header](https://github.com/Asilay3817/Asilay3817/blob/main/assets/qa-2-min.png)
+![Header](https://github.com/Asilay3817/Asilay3817/blob/main/assets/1517497951831.jpeg)
 
 ## Начинающий QA. Заинтересован в самообразовании и развитии навыков тестирования.
 
