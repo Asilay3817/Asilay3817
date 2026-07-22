@@ -1,4 +1,4 @@
-# (![Header](https://github.com/Asilay3817/Asilay3817/blob/main/assets/stock-photo-abstract-multicolored-background-poly-pattern.jpeg))
+# ![Header](https://github.com/Asilay3817/Asilay3817/blob/main/assets/stock-photo-abstract-multicolored-background-poly-pattern.jpeg)
 
 ### Привет, я Александр Панов
 
