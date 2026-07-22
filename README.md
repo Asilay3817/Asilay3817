@@ -1,6 +1,6 @@
 [//]: # (![Header]&#40;https://github.com/Asilay3817/Asilay3817/blob/main/assets/stock-photo-abstract-multicolored-background-poly-pattern.jpeg&#41;)
 
-## Начинающий QA. Заинтересован в самообразовании и развитии навыков тестирования.
+## QA-инженер с опытом работы в банковском секторе и крупных B2C-проектах. Эффективен как в плановой работе с автотестами и AI, так и в антикризисных проектах с полным отсутствием документации.
 
 [![CV](https://img.shields.io/badge/-CV-090909)](https://drive.google.com/file/d/14PtKJtaKsDnQCI2CX1G_PqsU_ou-u2wF/view?usp=sharing)
 ## Testing Documentation
