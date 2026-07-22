@@ -23,7 +23,7 @@ QA-инженер с опытом работы в банковском сект�
 ### 📂 Полезные ссылки
 
 [![CV](https://img.shields.io/badge/-Резюме-090909?style=for-the-badge)](https://drive.google.com/file/d/1wSddcMvu87wb9IuwozxGonKAU5ZUAx6H/view?usp=sharing)
-[![Documentation](https://img.shields.io/badge/-Тестовая_документация-090909?style=for-the-badge)](https://drive.google.com/drive/folders/1pqcG93MDtXmje2c7so3eizuQFLt9BmVt?usp=sharing)
+[![Documentation](https://img.shields.io/badge/-Артефакты-090909?style=for-the-badge)](https://drive.google.com/drive/folders/1pqcG93MDtXmje2c7so3eizuQFLt9BmVt?usp=sharing)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AsiLay3817)
 
 ---
@@ -31,7 +31,6 @@ QA-инженер с опытом работы в банковском сект�
 ### 📫 Контакты
 
 - **Email:** asilaydying3817@gmail.com
-- **Telegram:** @AsiLay3817
 - **LinkedIn:** [Александр Панов](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2)
 
 ---
