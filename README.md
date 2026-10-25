@@ -16,7 +16,7 @@ QA-инженер с опытом работы в банковском сект�
 | **Базы данных и логи** | ![SQL](https://img.shields.io/badge/-SQL-090909?style=flat-square&logo=mysql) ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=flat-square&logo=grafana) ![Loki](https://img.shields.io/badge/-Loki-090909?style=flat-square&logo=grafana) |
 | **Контейнеризация** | ![Docker](https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=docker) |
 | **Брокеры сообщений** | ![Kafka](https://img.shields.io/badge/-Kafka-090909?style=flat-square&logo=apachekafka&logoColor=white) |
-| **Тест-менеджмент** | ![QASE](https://img.shields.io/badge/-QASE-090909?style=flat-square&logo=Qase) ![Jira](https://img.shields.io/badge/-Jira-090909?style=flat-square&logo=jira) |
+| **Тест-менеджмент** | ![QASE](https://img.shields.io/badge/-QASE-090909?style=flat-square&logo=Qase) ![Jira](https://img.shields.io/badge/-Jira-090909?style=flat-square&logo=jira) ![Zephyr](https://img.shields.io/badge/Z-Zephyr-090909?style=flat-square&logoColor=white) |
 | **AI** | ![Ollama](https://img.shields.io/badge/-Ollama-090909?style=flat-square&logo=ollama) ![LM Studio](https://img.shields.io/badge/-LM_Studio-090909?style=flat-square&logo=lmstudio) |
 
 ---
